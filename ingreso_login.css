@@ -1,27 +1,15 @@
-.logo_arr {
-    display: flex;
-    margin-top: 5px;
-    margin-bottom: 15px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 150px;
-    height: 150px;
-    border-radius: 5px;
-}
-
 .textos {
     margin-top: 20px;
     text-align: center;
 }
 
 .textos_pie {
-    margin-top: 15px;
+    margin-top: 8px;
     text-align: center;
 }
 
 .caja_datos {
     width: 36%;
-    /* margin-bottom: 10px; */
     margin-left: 32%;
 }
 
@@ -36,7 +24,7 @@
 }
 
 .boton_space {
-    width: 30%;
+    width: 35%;
     margin-top: 35px;
     margin-bottom: 35px;
 }
@@ -65,7 +53,7 @@
     }
 
     .boton_space {
-        width: 40%;
+        width: 45%;
         margin-top: 25px;
         margin-bottom: 25px;
     }
@@ -83,17 +71,6 @@
 /* media query PANTALLAS MOVILES: hasta 480 px */
 @media only screen and (max-width: 480px) {
 
-    .logo_arr {
-        display: flex;
-        margin-top: 5px;
-        margin-bottom: 10px;
-        margin-left: auto;
-        margin-right: auto;
-        width: 75px;
-        height: 75px;
-        border-radius: 5px;
-    }
-
     .caja_datos {
         width: 90%;
         margin-left: 5%;
@@ -110,7 +87,7 @@
     }
 
     .boton_space {
-        width: 60%;
+        width: 50%;
         margin-top: 15px;
         margin-bottom: 15px;
     }
